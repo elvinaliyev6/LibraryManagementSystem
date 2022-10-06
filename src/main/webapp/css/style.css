@@ -1,0 +1,22 @@
+.inputClassBtn{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 5px;
+    background-color: #f6d70f;
+    cursor: pointer;
+}
+
+table{
+    width: 100%;
+}
+
+.lblDesign {
+    width: 150px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+#contentId{
+    text-align: center;
+    color: #31b131;
+}
